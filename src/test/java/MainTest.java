@@ -16,6 +16,7 @@ public class MainTest {
         assertEquals(Main.isPalindrome(11212), false);
     }
 
+
     @DisplayName("Mükemmel Sayılar Testi")
     @Test
     public void testIsPerfectNumber(){
